@@ -20,5 +20,5 @@ cd aetherflow
 pip install requests
 python3 aetherflow.py
 
-**Created by:** VGO PROMO — Verified Casino & Crypto Bonuses 💎  
+Created by: VGO PROMO — Verified Casino & Crypto Bonuses 💎  
 👉 https://www.vgopromo.com
